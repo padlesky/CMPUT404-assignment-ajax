@@ -14,7 +14,7 @@ Pair Programmed with Aaron Padlesky
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.  
   
-  Copyright 2015 Pranjali Pokhare, Aaron Padlesky  
+  Copyright 2015 Pranjali Pokharel, Aaron Padlesky  
 
   Licensed under the Apache License, Version 2.0 (the "License");  
   you may not use this file except in compliance with the License.  
